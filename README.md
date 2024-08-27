@@ -32,19 +32,20 @@ I have simulated autonomous driving using CNN in Unity Game engine and developed
 
 ## 🛠️ Projects
 
+- **Robot Localization with OpenCV and Particle Filters**: OpenCV, NumPy
 - **Traffic Sign Classification**: OpenCV, TensorFlow, PyTorch
 - **Vehicle Detection And Counting Flask App**: OpenCV, TensorFlow, PyTorch
 - **Face Detection Streamlit App**: OpenCV, PyTorch
 - **Plant Disease Prediction Streamlit App**: TensorFlow, PyTorch, Scikit-Image
-- **Emotion Recognition using Neural Network - Deploy On AWS**: TensorFlow, PyTorch
+- **Emotion Recognition using Neural Network - Deployed On AWS**: TensorFlow, PyTorch
 - **Text Extraction From Images Application**: OpenCV, Scikit-Image
 - **Create A Face Swapping Flask App**: OpenCV, TensorFlow
 - **Intel Image Classification Flask App**: TensorFlow, PyTorch
-- **Image Watermarking App - Deploy On Heroku**: OpenCV
-- **Image Digit Classification - Deploy On AWS**: TensorFlow
-- **Pan Card Tempering Detector App - Deploy On Heroku**: OpenCV
-- **Dog Breed Prediction Flask App**: TensorFlow, PyTorch
-- **Robot Localization with OpenCV and Particle Filters**: OpenCV, NumPy
+- **Image Watermarking App - Deployed On Render**: OpenCV
+- **Image Digit Classification - Deployed On AWS**: TensorFlow
+- **Pan Card Tempering Detector App - Deployed On Render**: OpenCV
+- **Dog Breed Prediction Flask App: Deployed On Render** TensorFlow, PyTorch
+
 
 Feel free to explore my projects and connect with me!
 
