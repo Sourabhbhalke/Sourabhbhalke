@@ -34,6 +34,7 @@ I have simulated autonomous driving using CNN in Unity Game engine and developed
 
 ## 🛠️ Projects
 
+- **CLU on dialogflow CX**: Google CX, Dialogflow, LLMs, Python, Cloud-NLP
 - **Robot Localization with OpenCV and Particle Filters**: OpenCV, NumPy
 - **Traffic Sign Classification**: OpenCV, TensorFlow, PyTorch
 - **Vehicle Detection And Counting Flask App**: OpenCV, TensorFlow, PyTorch
