@@ -1,63 +1,101 @@
 # 👋 Hi, I’m @Sourabhbhalke
-## https://www.youtube.com/watch?v=eTF_eHrCTTE&ab_channel=Sourabh.in.Germany  
-## You can checkout multiple project demos in this youtube video first to get better understanding of the workings
 
-Welcome to my GitHub profile! I'm a passionate software developer with a strong focus on cutting-edge technologies. Here's a bit about what I do and what I'm interested in:
+## 🎥 [Check Out My Project Demos on YouTube](https://www.youtube.com/watch?v=eTF_eHrCTTE&ab_channel=Sourabh.in.Germany)  
+## 🎥 YouTube Demo  
+Check out our project trailer on YouTube:  
+[![YouTube Video](https://img.youtube.com/vi/u5uLa0_WG4E/0.jpg)](https://www.youtube.com/watch?v=u5uLa0_WG4E)
+- Explore multiple project demonstrations to get a better understanding of my work and expertise.
 
-## 👀 I’m interested in...
+---
 
-- **Autonomous Driving Technologies:** Leveraging deep learning and computer vision to build smarter self-driving systems.
-- **Python Programming:** From data analysis to web development, Python is my go-to language.
-- **Machine Learning:** Exploring new algorithms and methodologies to solve real-world problems.
-- **Open Source Projects:** Contributing to and collaborating on projects that push the boundaries of technology.
+## 🛠️ Featured Projects
 
-## 🌱 I’m currently learning...
+### Chatbots & Conversational AI
+- **CLU (Conversational Language Understanding) on Dialogflow CX**  
+  *Technologies*: Dialogflow CX, Google Cloud NLP, Python  
+  Focused on building intelligent chatbots integrated with CLU for seamless conversations.
 
-- **Advanced TensorFlow:** Enhancing my expertise in TensorFlow for improved model performance and optimization in deep learning tasks.
-- **Computer Vision:** Exploring advanced techniques and applications in computer vision, including real-time image processing and object detection.
-- **Robotics and Autonomous Systems:** Working on integrating machine learning with robotics, including autonomous navigation and control systems.
+### Autonomous Systems
+- **Robot Localization with OpenCV and Particle Filters**  
+  *Technologies*: OpenCV, NumPy  
+  Developed a system for tracking object movement using particle filters.
 
-## 💞️ I’m looking to collaborate on...
+### Computer Vision Applications
+- **Traffic Sign Classification**  
+  *Technologies*: OpenCV, TensorFlow, PyTorch  
+  Built a classifier for recognizing traffic signs in images.  
+- **Vehicle Detection and Counting Flask App**  
+  *Technologies*: OpenCV, TensorFlow, PyTorch  
+  Real-time vehicle detection and counting using Flask.  
 
-- **Machine Learning and Computer Vision Projects:** If you’re working on projects involving deep learning, computer vision, or image processing, I’d love to collaborate.
-- **Robotics and Autonomous Vehicles:** Interested in projects related to autonomous driving technologies, robotics, and sensor fusion.
-- **Innovative Software Solutions:** Passionate about bringing creative and efficient solutions to life, particularly in the fields of AI and robotics.
+### Machine Learning Applications
+- **Dog Breed Classifier (Streamlit App)**  
+  *Technologies*: TensorFlow, PyTorch  
+  Predicts dog breeds from images using machine learning.  
+- **Plant Disease Prediction App (Streamlit)**  
+  *Technologies*: TensorFlow, PyTorch, Scikit-Image  
+  Identifies plant diseases from leaf images.  
 
-### Note
+### Deployment Projects
+- **Emotion Recognition Neural Network (Deployed on AWS)**  
+  *Technologies*: TensorFlow, PyTorch  
+  Recognizes human emotions using neural networks.  
+- **Image Watermarking App (Deployed on Render)**  
+  *Technologies*: OpenCV  
+  Adds watermarks to images with an easy-to-use interface.  
 
-I have simulated autonomous driving using CNN in Unity Game engine and developed a lane-following autonomous robot with Raspberry Pi. These projects are ongoing and not yet available on GitHub.
+### Other Notable Projects
+- **Pan Card Tempering Detector App (Deployed on Render)**  
+  Detects tampering in PAN card images using OpenCV.  
+- **Face Swapping Flask App**  
+  Swaps faces in images using advanced image processing techniques.  
 
+---
 
-## 📫 How to reach me...
+## 🧑‍💻 Additional Repositories
 
-- **LinkedIn:** [linkedin.com/in/sourabh-bhalke](https://linkedin.com/in/sourabh-bhalke)
+Here are some of my other repositories covering diverse domains:
 
-## 🛠️ Projects
-
-- **CLU on dialogflow CX**: Google CX, Dialogflow, LLMs, Python, Cloud-NLP
-- **Robot Localization with OpenCV and Particle Filters**: OpenCV, NumPy
-- **Traffic Sign Classification**: OpenCV, TensorFlow, PyTorch
-- **Vehicle Detection And Counting Flask App**: OpenCV, TensorFlow, PyTorch
-- **Face Detection Streamlit App**: OpenCV, PyTorch
-- **Plant Disease Prediction Streamlit App**: TensorFlow, PyTorch, Scikit-Image
-- **Emotion Recognition using Neural Network - Deployed On AWS**: TensorFlow, PyTorch
-- **Text Extraction From Images Application**: OpenCV, Scikit-Image
-- **Create A Face Swapping Flask App**: OpenCV, TensorFlow
-- **Intel Image Classification Flask App**: TensorFlow, PyTorch
-- **Image Watermarking App - Deployed On Render**: OpenCV
-- **Image Digit Classification - Deployed On AWS**: TensorFlow
-- **Pan Card Tempering Detector App - Deployed On Render**: OpenCV
-- **Dog Breed Prediction Flask App: Deployed On Render** TensorFlow, PyTorch
-
-
-Feel free to explore my projects and connect with me!
-
-
-😄 Pronouns:
-
-He/Him
+1. **[company-chatbot-demo](https://github.com/Sourabhbhalke/company-chatbot-demo)** - A Streamlit-based multilingual chatbot template for businesses.
+2. **[jinaAI-embeddings-movie](https://github.com/Sourabhbhalke/jinaAI-embeddings-movie)** - Movie recommendation system using embeddings (Hack Night Berlin project).
+3. **[AssemblyAI-audio-transcript](https://github.com/Sourabhbhalke/AssemblyAI-audio-transcript)** - Audio transcription demo using AssemblyAI APIs.
+4. **[wine-suggestor-embeddings](https://github.com/Sourabhbhalke/wine-suggestor-embeddings)** - Retrieval Augmented Generation (RAG) with Qdrant and sentence transformers.
+5. **[binary_classifier_streamlit-mushroom](https://github.com/Sourabhbhalke/binary_classifier_streamlit-mushroom)** - Classifies mushrooms as edible or poisonous using ML algorithms.
 
 
-⚡ Fun fact:
+---
 
-I once built a self-driving car simulation using CNN and Python, integrating it with a Unity game engine to predict driving angles!
+## 👀 Interests
+
+- **Autonomous Driving Technologies**: Leveraging deep learning and computer vision to build smarter self-driving systems.
+- **Python Programming**: From data analysis to web development, Python is my go-to language.
+- **Machine Learning**: Exploring new algorithms and methodologies to solve real-world problems.
+- **Open Source Projects**: Contributing to and collaborating on projects that push the boundaries of technology.
+
+---
+
+## 🌱 Currently Learning
+
+- **Advanced TensorFlow**: Enhancing my expertise in TensorFlow for optimized deep learning model performance.
+- **Computer Vision**: Exploring advanced techniques like real-time image processing and object detection.
+- **Robotics and Autonomous Systems**: Integrating machine learning with robotics for autonomous navigation and control systems.
+
+---
+
+## 💞️ Collaboration Interests
+
+- **Machine Learning and Computer Vision Projects**: Deep learning, computer vision, or image processing collaborations.
+- **Robotics and Autonomous Vehicles**: Autonomous driving technologies, robotics, and sensor fusion projects.
+- **Innovative Software Solutions**: Passionate about bringing creative solutions to life in AI and robotics.
+
+---
+
+## 📫 How to Reach Me
+
+- **LinkedIn**: [linkedin.com/in/sourabh-bhalke](https://linkedin.com/in/sourabh-bhalke)
+
+---
+
+## ⚡ Fun Fact
+
+I once built a self-driving car simulation using CNNs integrated with a Unity game engine to predict driving angles!
