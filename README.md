@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @Sourabhbhalke
 
 ## 🎥 [Check Out My Project Demos on YouTube](https://www.youtube.com/watch?v=eTF_eHrCTTE&ab_channel=Sourabh.in.Germany)  
-Explore multiple project demonstrations to get a better understanding of my work and expertise.
-## 🎥 YouTube Demo - AI neural-voice and video synthesis!  
-Check out previous and upcoming project trailers on YouTube: Synthesized entirely with AI! 
+Explore multiple project demonstrations on the channel to get a better understanding of my work and expertise in chatbots, AI Agents, LLMs, RAG, Autonomous driving, OCR,  ML and MLOps in general.
+## NEW 🎥 YouTube Demo - AI neural-voice and video synthesis!  
+Check out previous and upcoming project in LLM and RAG with trailers on YouTube: Synthesized entirely with AI! 
 
 [![YouTube Video](https://img.youtube.com/vi/u5uLa0_WG4E/0.jpg)](https://www.youtube.com/watch?v=u5uLa0_WG4E)
 
