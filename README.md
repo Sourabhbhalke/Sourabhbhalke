@@ -1,92 +1,116 @@
 # 👋 Hi, I’m @Sourabhbhalke
 
 ## 🎥 [Check Out My Project Demos on YouTube](https://www.youtube.com/watch?v=eTF_eHrCTTE&ab_channel=Sourabh.in.Germany)  
-## 🎥 YouTube Demo  
-Check out our project trailer on YouTube:  
+Explore multiple project demonstrations to get a better understanding of my work and expertise.
+## 🎥 YouTube Demo - AI neural-voice and video synthesis!  
+Check out previous and upcoming project trailers on YouTube: Synthesized entirely with AI! 
+
 [![YouTube Video](https://img.youtube.com/vi/u5uLa0_WG4E/0.jpg)](https://www.youtube.com/watch?v=u5uLa0_WG4E)
-- Explore multiple project demonstrations to get a better understanding of my work and expertise.
 
 ---
 
 ## 🛠️ Featured Projects
 
-### Chatbots & Conversational AI
-- **CLU (Conversational Language Understanding) on Dialogflow CX**  
-  *Technologies*: Dialogflow CX, Google Cloud NLP, Python  
-  Focused on building intelligent chatbots integrated with CLU for seamless conversations.
-
-### Autonomous Systems
-- **Robot Localization with OpenCV and Particle Filters**  
-  *Technologies*: OpenCV, NumPy  
-  Developed a system for tracking object movement using particle filters.
-
-### Computer Vision Applications
-- **Traffic Sign Classification**  
-  *Technologies*: OpenCV, TensorFlow, PyTorch  
-  Built a classifier for recognizing traffic signs in images.  
-- **Vehicle Detection and Counting Flask App**  
-  *Technologies*: OpenCV, TensorFlow, PyTorch  
-  Real-time vehicle detection and counting using Flask.  
-
-### Machine Learning Applications
-- **Dog Breed Classifier (Streamlit App)**  
-  *Technologies*: TensorFlow, PyTorch  
-  Predicts dog breeds from images using machine learning.  
-- **Plant Disease Prediction App (Streamlit)**  
-  *Technologies*: TensorFlow, PyTorch, Scikit-Image  
-  Identifies plant diseases from leaf images.  
-
-### Deployment Projects
-- **Emotion Recognition Neural Network (Deployed on AWS)**  
-  *Technologies*: TensorFlow, PyTorch  
-  Recognizes human emotions using neural networks.  
-- **Image Watermarking App (Deployed on Render)**  
-  *Technologies*: OpenCV  
-  Adds watermarks to images with an easy-to-use interface.  
-
-### Other Notable Projects
-- **Pan Card Tempering Detector App (Deployed on Render)**  
-  Detects tampering in PAN card images using OpenCV.  
-- **Face Swapping Flask App**  
-  Swaps faces in images using advanced image processing techniques.  
+| **Chatbots & Conversational AI**                                                                                      | **Autonomous Systems**                                                                                              |
+|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| **[company-chatbot-demo](https://github.com/Sourabhbhalke/company-chatbot-demo)**                                     | **[Robot Localization](https://github.com/Sourabhbhalke/Robot_Localization)**                                      |
+| *Technologies*: Streamlit, Dialogflow CX, Google Cloud NLP, Python                                                   | *Technologies*: OpenCV, NumPy                                                                                      |
+| A multilingual chatbot template for businesses, offering dynamic responses and seamless integration.                 | Developed a system for tracking object movement using particle filters for autonomous navigation.                  |
+|                                                                                                                       |                                                                                                                    |
+| **[CLU (Conversational Language Understanding)](https://github.com/Sourabhbhalke/CLU)**                               | **[Vehicle Detection and Counting Flask App](https://github.com/Sourabhbhalke/Vehicle_detection_counting)**        |
+| *Technologies*: Dialogflow CX, Google Cloud NLP, Python                                                              | *Technologies*: OpenCV, TensorFlow, PyTorch                                                                        |
+| Focused on developing intelligent chatbots integrated with CLU for seamless and context-aware conversations.         | Real-time vehicle detection and counting application built with Flask.                                             |
+|                                                                                                                       |                                                                                                                    |
+| **[LiteLLMtests-public](https://github.com/Sourabhbhalke/LiteLLMtests-public)**                                       | **[Video Tracking with Particle Filters](https://github.com/Sourabhbhalke/Video_Tracking_object_particle_filters)**|
+| *Technologies*: Large Language Models (LLMs), Python                                                                 | *Technologies*: OpenCV                                                                                            |
+| Experiments and testing with lightweight LLMs for chatbot and conversational AI applications.                        | Tracks objects in video frames using particle filters to predict movement.                                         |
+|                                                                                                                       |                                                                                                                    |
+| **[jinaAI-embeddings-movie](https://github.com/Sourabhbhalke/jinaAI-embeddings-movie)**                               |                                                                                                                    |
+| *Technologies*: Jina AI, Weaviate, Python                                                                            |                                                                                                                    |
+| A movie recommendation system using embeddings, created during Hack Night Berlin.                                    |                                                                                                                    |
+|                                                                                                                       |                                                                                                                    |
+| **[AssemblyAI-audio-transcript](https://github.com/Sourabhbhalke/AssemblyAI-audio-transcript)**                       |                                                                                                                    |
+| *Technologies*: AssemblyAI APIs, Python                                                                              |                                                                                                                    |
+| Demonstrates audio transcription capabilities with AssemblyAI for conversational AI applications.                    |                                                                                                                    |
 
 ---
 
-## 🧑‍💻 Additional Repositories
+### Machine Learning Applications
+1. **[binary_classifier_streamlit-mushroom](https://github.com/Sourabhbhalke/binary_classifier_streamlit-mushroom-)**  
+   *Technologies*: Support Vector Machine (SVM), Logistic Regression, Random Forest  
+   A web app for classifying mushrooms as edible or poisonous using machine learning algorithms.
 
-Here are some of my other repositories covering diverse domains:
+2. **[Dog Breed Classifier (Streamlit App)](https://github.com/Sourabhbhalke/Dog_breed_classifier)**  
+   *Technologies*: TensorFlow, PyTorch  
+   Predicts dog breeds from images using machine learning models.
 
-1. **[company-chatbot-demo](https://github.com/Sourabhbhalke/company-chatbot-demo)** - A Streamlit-based multilingual chatbot template for businesses.
-2. **[jinaAI-embeddings-movie](https://github.com/Sourabhbhalke/jinaAI-embeddings-movie)** - Movie recommendation system using embeddings (Hack Night Berlin project).
-3. **[AssemblyAI-audio-transcript](https://github.com/Sourabhbhalke/AssemblyAI-audio-transcript)** - Audio transcription demo using AssemblyAI APIs.
-4. **[wine-suggestor-embeddings](https://github.com/Sourabhbhalke/wine-suggestor-embeddings)** - Retrieval Augmented Generation (RAG) with Qdrant and sentence transformers.
-5. **[binary_classifier_streamlit-mushroom](https://github.com/Sourabhbhalke/binary_classifier_streamlit-mushroom)** - Classifies mushrooms as edible or poisonous using ML algorithms.
+3. **[Traffic Sign Classification](https://github.com/Sourabhbhalke/Traffic_Sign_Detector)**  
+   *Technologies*: OpenCV, TensorFlow, PyTorch  
+   Built a classifier for recognizing traffic signs in images.
 
+---
+
+### Deployment Projects
+1. **Emotion Recognition Neural Network (Deployed on AWS)**  
+   *Technologies*: TensorFlow, PyTorch  
+   Recognizes human emotions using neural networks deployed on AWS.
+
+2. **[Image Watermarking App (Deployed on Render)](https://github.com/Sourabhbhalke/Image_watermarker)**  
+   *Technologies*: OpenCV  
+   Adds watermarks to images with an easy-to-use interface.
+
+3. **Pan Card Tempering Detector App (Deployed on Render)**  
+   Detects tampering in PAN card images using OpenCV.
+
+4. **Face Swapping Flask App**  
+   Swaps faces in images using advanced image processing techniques.
+
+---
+
+### Other Notable Projects
+1. **[Sympy Matrix Multiplier](https://github.com/Sourabhbhalke/Sympy_Matrix_Multiplier)**  
+   Matrix multiplication tool using Sympy and Pandas for educational purposes.
+
+2. **[Recognizing Shapes with OpenCV](https://github.com/Sourabhbhalke/Recognizing_Shapes_cv2)**  
+   Detects and recognizes shapes like lines and circles in images using OpenCV.
+
+3. **[Traffic Sign Detector App](https://github.com/Sourabhbhalke/Traffic_sign_detector_app)**  
+   A Flask app that predicts German traffic signs from uploaded images.
+
+4. **[Logo Watermarker](https://github.com/Sourabhbhalke/Logo_watermarker)**  
+   Creates watermarks on images (e.g., logos) using Colab notebooks.
+
+5. **[ID Tempering Detection](https://github.com/Sourabhbhalke/ID_tempering_detect)**  
+   Detects tampering in ID cards using image processing techniques.
+
+6. **[L1.1 Leetcode Prize Distribution Analysis](https://github.com/Sourabhbhalke/L1.1_leetcode-prize-distribution)**  
 
 ---
 
 ## 👀 Interests
 
-- **Autonomous Driving Technologies**: Leveraging deep learning and computer vision to build smarter self-driving systems.
-- **Python Programming**: From data analysis to web development, Python is my go-to language.
-- **Machine Learning**: Exploring new algorithms and methodologies to solve real-world problems.
-- **Open Source Projects**: Contributing to and collaborating on projects that push the boundaries of technology.
+- **Chatbots & Conversational AI**: Building intelligent systems that understand and respond to user queries effectively.
+- **Retrieval-Augmented Generation (RAG)**: Exploring search-enhanced generative AI models.
+- **Autonomous Systems**: Leveraging computer vision and robotics for smarter navigation.
+- **Machine Learning**: Developing innovative solutions to solve real-world problems.
+- **Open Source Projects**: Contributing to cutting-edge technologies and collaborative development.
 
 ---
 
 ## 🌱 Currently Learning
 
-- **Advanced TensorFlow**: Enhancing my expertise in TensorFlow for optimized deep learning model performance.
-- **Computer Vision**: Exploring advanced techniques like real-time image processing and object detection.
-- **Robotics and Autonomous Systems**: Integrating machine learning with robotics for autonomous navigation and control systems.
+- Advanced TensorFlow for model optimization.
+- Retrieval-Augmented Generation (RAG) techniques.
+- Robotics integration with AI for autonomous systems.
 
 ---
 
 ## 💞️ Collaboration Interests
 
-- **Machine Learning and Computer Vision Projects**: Deep learning, computer vision, or image processing collaborations.
-- **Robotics and Autonomous Vehicles**: Autonomous driving technologies, robotics, and sensor fusion projects.
-- **Innovative Software Solutions**: Passionate about bringing creative solutions to life in AI and robotics.
+- Chatbots & NLP projects.
+- Retrieval-Augmented Generation (RAG) systems.
+- Robotics and Autonomous Vehicles.
+- Innovative AI-powered software solutions.
 
 ---
 
